@@ -5,7 +5,7 @@ http://www.youtube.com/user/itirohidaka
 
 
 
-###References:
+##References:
 http://blog.jongallant.com/2016/08/sphero-sprkplus-rpi-nodejs.html
 https://github.com/EmergingTechnologyAdvisors/node-serialport/blob/4.0.3/README.md
 https://github.com/EmergingTechnologyAdvisors/node-serialport#installation-instructions
