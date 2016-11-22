@@ -1,0 +1,76 @@
+{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "ver", 
+                            1.27, 
+                            1.53
+                        ]
+                    ], 
+                    "transcript": "ver "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "ver", 
+                            1.27, 
+                            1.55
+                        ], 
+                        [
+                            "de", 
+                            1.55, 
+                            1.79
+                        ]
+                    ], 
+                    "transcript": "ver de "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.682, 
+                    "timestamps": [
+                        [
+                            "verde", 
+                            1.27, 
+                            1.8
+                        ]
+                    ], 
+                    "transcript": "verde ", 
+                    "word_confidence": [
+                        [
+                            "verde", 
+                            0.6819104368576879
+                        ]
+                    ]
+                }, 
+                {
+                    "transcript": "ver de "
+                }, 
+                {
+                    "transcript": "o verde "
+                }
+            ], 
+            "final": true
+        }
+    ]
+}

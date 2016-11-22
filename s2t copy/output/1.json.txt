@@ -1,0 +1,85 @@
+{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "as", 
+                            1.28, 
+                            1.47
+                        ]
+                    ], 
+                    "transcript": "as "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "timestamps": [
+                        [
+                            "a", 
+                            1.28, 
+                            1.38
+                        ], 
+                        [
+                            "azul", 
+                            1.38, 
+                            1.89
+                        ]
+                    ], 
+                    "transcript": "a azul "
+                }
+            ], 
+            "final": false
+        }
+    ]
+}{
+    "result_index": 0, 
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.932, 
+                    "timestamps": [
+                        [
+                            "a", 
+                            1.28, 
+                            1.38
+                        ], 
+                        [
+                            "azul", 
+                            1.38, 
+                            1.89
+                        ]
+                    ], 
+                    "transcript": "a azul ", 
+                    "word_confidence": [
+                        [
+                            "a", 
+                            0.6148382167181062
+                        ], 
+                        [
+                            "azul", 
+                            0.9944616027301139
+                        ]
+                    ]
+                }, 
+                {
+                    "transcript": "azul "
+                }, 
+                {
+                    "transcript": "a azul e "
+                }
+            ], 
+            "final": true
+        }
+    ]
+}
