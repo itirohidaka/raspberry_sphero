@@ -6,18 +6,19 @@ http://www.youtube.com/user/itirohidaka
 
 
 ##References:
+###Node
 http://blog.jongallant.com/2016/08/sphero-sprkplus-rpi-nodejs.html
 https://github.com/EmergingTechnologyAdvisors/node-serialport/blob/4.0.3/README.md
 https://github.com/EmergingTechnologyAdvisors/node-serialport#installation-instructions
-
+###Cylon
 https://github.com/hybridgroup/cylon-sphero
 https://cylonjs.com/documentation/platforms/sphero/
 https://github.com/hybridgroup/cylon-sphero
 https://github.com/hybridgroup/cylon-sphero/tree/master/examples/color
-
+###Bluetooth
 http://unix.stackexchange.com/questions/92255/how-do-i-connect-and-send-data-to-a-bluetooth-serial-port-on-linux
 https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=125922
-
+###IBM
 https://developer.ibm.com/recipes/tutorials/connecting-raspberry-pi-as-a-gateway-to-watson-iot-using-node-red/
 https://github.com/IBM-Bluemix/python-iot-raspberry-pi
 https://www.ibm.com/watson/developercloud/doc/getting_started/
